@@ -10,7 +10,7 @@ const Navbar = () => {
         </span>
 
         <span className="hidden group-hover:inline font-bold text-2xl pl-4">
-          & Views
+          <Link to="/">& Views</Link>
         </span>
       </div>
       <div className="flex gap-3">
